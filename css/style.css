@@ -46,7 +46,7 @@ nav>ul>li>a:hover{
 }
 
 #content{
-    background-image: linear-gradient(to bottom left, darkblue,blue,lightblue);
+    background-image: linear-gradient(to bottom right, darkblue,blue,lightblue);
     color: white;
     width: 100%;
 }
