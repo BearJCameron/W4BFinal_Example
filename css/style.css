@@ -43,7 +43,7 @@ nav>ul>li>a:hover{
 }
 
 /* Content Styles Start */
-#content>img{
+#content>a>img{
     float: left;
     padding: 1rem;
 }
