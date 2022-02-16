@@ -2,6 +2,7 @@ body{
     margin: 0;
 }
 
+/* Nav Style Start */
 nav>img{
     height: 100px;
     float: left;
@@ -30,6 +31,7 @@ nav>ul>li>a:hover{
     font-size: 52pt;
     color: lightblue;
 }
+/* Nav Style End */
 
 #hero_image{
     height: 15rem;
@@ -40,6 +42,7 @@ nav>ul>li>a:hover{
     margin-bottom: 1rem;
 }
 
+/* Content Styles Start */
 #content>img{
     float: left;
     padding: 1rem;
@@ -55,6 +58,7 @@ nav>ul>li>a:hover{
     padding: 1rem;
     text-shadow: 2px black;
 }
+/* Content Styles End */
 
 iframe{
     height: 40rem;
@@ -62,6 +66,7 @@ iframe{
     margin-top: 3rem;
 }
 
+/* Form Style Start */
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px; 
@@ -95,7 +100,9 @@ input[type=submit]:hover {
   margin-top: 3rem;
   color: white;
 }
+/* Form Style End */
 
+/* Footer Styles Start */
 footer{
     position: fixed;
     bottom: 0;
@@ -115,3 +122,4 @@ footer>ul>li>a{
     text-decoration: none;
     color: white;
 }
+/* Footer Styles End */
