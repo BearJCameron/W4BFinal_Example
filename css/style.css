@@ -58,6 +58,17 @@ nav>ul>li>a:hover{
     padding: 1rem;
     text-shadow: 2px black;
 }
+
+#map{
+    height: 300px;
+    width: 100%;
+    margin-bottom: 2.5rem;
+}
+
+#map_box{
+    margin-bottom: 5rem;
+    background-image: linear-gradient(to bottom right, darkblue,blue, lightblue);
+}
 /* Content Styles End */
 
 iframe{
@@ -105,6 +116,7 @@ input[type=submit]:hover {
 /* Footer Styles Start */
 footer{
     position: fixed;
+    margin-top: 1rem;
     bottom: 0;
     width: 100%;
     background-image: linear-gradient(to bottom right, darkblue, blue, lightblue);
