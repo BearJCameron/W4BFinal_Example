@@ -36,7 +36,7 @@ nav>ul>li>a:hover{
 
 #hero_image{
     height: 15rem;
-    background-image: url(/image/wall.jpg);
+    background-image: url(../image/wall.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 1rem;
